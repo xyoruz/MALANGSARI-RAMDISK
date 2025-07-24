@@ -1,8 +1,8 @@
 # ```MALANGSARI-PWNDFU```
-```├── pwndfu_menu.bat ✅ Script utama```
+```├── pwndfu_menu.bat```
 
-```├── gaster.exe ✅ Tambahkan (manual)```
+```├── gaster.exe```
 
-```├── UsbDk_1.0.22_x64.msi ✅ Tambahkan (manual)```
+```├── UsbDk_1.0.22_x64.msi```
 
-```├── AppleMobileDeviceSupport64.msi ✅ Tambahkan (manual)```
+```├── AppleMobileDeviceSupport64.msi```
